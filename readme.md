@@ -2,7 +2,7 @@
 
 ## A Hierarchical Neural Network Based on Boundary-Emergent Complexity
 
-![Dendritic Activation Pattern](https://raw.githubusercontent.com/anttiluode/DSA/main/images/fractal_boundary.png)
+![Dendritic Activation Pattern](https://raw.githubusercontent.com/anttiluode/DSA/main/fractal-boundary.png)
 
 ## Overview
 
